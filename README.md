@@ -18,4 +18,10 @@ untuk yang baru ingin membuat bot Discord
 <br>
 • Done, your Bot can be used.
 
+# Link 
+
+<a href="https://youtube.com/channel/UCgGkgbSdBJUvA4ilZAHrQbA">My YouTube</a> 
+<br>
+<a href="https://www.instagram.com/_blackpythonbot_">My Instagram</a> 
+<br>
 
