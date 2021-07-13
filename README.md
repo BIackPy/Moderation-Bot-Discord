@@ -21,7 +21,4 @@ untuk yang baru ingin membuat bot Discord
 # Link 
 
 <a href="https://youtube.com/channel/UCgGkgbSdBJUvA4ilZAHrQbA">My YouTube</a> 
-<br>
-<a href="https://www.instagram.com/_blackpythonbot_">My Instagram</a> 
-<br>
 
