@@ -14,8 +14,8 @@ $thumbnail[$userAvatar[$authorID]]
 \`$getServerVar[prefix]poll\` - Polling.
 \`$getServerVar[prefix]clear\` - Delete Message.
 \`$getServerVar[prefix]setprefix\` - Set Custom Prefix.]
-$color[RANDOM]
-$footer[Simple Moderation Bot | By Kasbon4Life]
+$color[RANDOM] 
+$footer[Simple Moderation Bot | By BlackPy]
 $addTimestamp`
 
 }
