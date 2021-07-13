@@ -2,7 +2,7 @@
 
 Salah satu Bot Moderator paling simple 
 <br>
-untuk yang baru ingin membuat bot Discord 
+untuk pemula yang ingin membuat bot Discord 
 
 # Get Started
 
